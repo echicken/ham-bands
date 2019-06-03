@@ -1,0 +1,446 @@
+[
+    {
+        "name": "2200 Metres",
+        "lower_edge": 135700,
+        "upper_edge": 137800,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 135700,
+                    "upper_edge": 137400
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 137400,
+                    "upper_edge": 137600
+                },
+                {
+                    "mode": "CW QRSS",
+                    "lower_edge": 137600,
+                    "upper_edge": 137800
+                }
+            ]
+        }
+    },
+    {
+        "name": "160 Metres",
+        "lower_edge": 1800000,
+        "upper_edge": 2000000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 1800000,
+                    "upper_edge": 1840000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 1800000,
+                    "upper_edge": 1810000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 1840000,
+                    "upper_edge": 2000000
+                }
+            ]
+        }
+    },
+    {
+        "name": "80 Metres",
+        "lower_edge": 3500000,
+        "upper_edge": 4000000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 3500000,
+                    "upper_edge": 3580000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 3580000,
+                    "upper_edge": 3583000
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 3583000,
+                    "upper_edge": 3589000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 3589000,
+                    "upper_edge": 3600000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 3600000,
+                    "upper_edge": 3842000
+                },
+                {
+                    "mode": "TV",
+                    "lower_edge": 3842000,
+                    "upper_edge": 3845000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 3845000,
+                    "upper_edge": 4000000
+                }
+            ]
+        }
+    },
+    {
+        "name": "60 Metres",
+        "lower_edge": 5300000,
+        "upper_edge": 5400000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 5330500,
+                    "upper_edge": 5333300
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 5330500,
+                    "upper_edge": 5333300
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 5330500,
+                    "upper_edge": 5333300
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 5346500,
+                    "upper_edge": 5349300
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 5346500,
+                    "upper_edge": 5349300
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 5346500,
+                    "upper_edge": 5349300
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 5357000,
+                    "upper_edge": 5359800
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 5357000,
+                    "upper_edge": 5359800
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 5357000,
+                    "upper_edge": 5359800
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 5371500,
+                    "upper_edge": 5374300
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 5371500,
+                    "upper_edge": 5374300
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 5371500,
+                    "upper_edge": 5374300
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 5403500,
+                    "upper_edge": 5406300
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 5403500,
+                    "upper_edge": 5406300
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 5403500,
+                    "upper_edge": 5406300
+                }
+            ]
+        }
+    },
+    {
+        "name": "40 Metres",
+        "lower_edge": 7000000,
+        "upper_edge": 7300000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 7000000,
+                    "upper_edge": 7040000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 7035000,
+                    "upper_edge": 7040000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 7040000,
+                    "upper_edge": 7165000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 7070000,
+                    "upper_edge": 7125000
+                },
+                {
+                    "mode": "TV",
+                    "lower_edge": 7165000,
+                    "upper_edge": 7175000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 7175000,
+                    "upper_edge": 7300000
+                }
+            ]
+        }
+    },
+    {
+        "name": "30 Metres",
+        "lower_edge": 10100000,
+        "upper_edge": 10150000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 10100000,
+                    "upper_edge": 10130000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 10130000,
+                    "upper_edge": 10150000
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 10140000,
+                    "upper_edge": 10150000
+                }
+            ]
+        }
+    },
+    {
+        "name": "20 Metres",
+        "lower_edge": 14000000,
+        "upper_edge": 14350000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 14000000,
+                    "upper_edge": 14070000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 14070000,
+                    "upper_edge": 14112000
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 14073000,
+                    "upper_edge": 14100500
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 14112000,
+                    "upper_edge": 14230000
+                },
+                {
+                    "mode": "TV",
+                    "lower_edge": 14230000,
+                    "upper_edge": 14236000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 14236000,
+                    "upper_edge": 14350000
+                }
+            ]
+        }
+    },
+    {
+        "name": "17 Metres",
+        "lower_edge": 18068000,
+        "upper_edge": 18168000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 18068000,
+                    "upper_edge": 18100000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 18095000,
+                    "upper_edge": 18110000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 18110000,
+                    "upper_edge": 18168000
+                }
+            ]
+        }
+    },
+    {
+        "name": "15 Metres",
+        "lower_edge": 21000000,
+        "upper_edge": 21450000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 21000000,
+                    "upper_edge": 21080000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 21070000,
+                    "upper_edge": 21125000
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 21083000,
+                    "upper_edge": 21090000
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 21125000,
+                    "upper_edge": 21150000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 21150000,
+                    "upper_edge": 21340000
+                },
+                {
+                    "mode": "TV",
+                    "lower_edge": 21340000,
+                    "upper_edge": 21343000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 21343000,
+                    "upper_edge": 21450000
+                }
+            ]
+        }
+    },
+    {
+        "name": "12 Metres",
+        "lower_edge": 24890000,
+        "upper_edge": 24990000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 24890000,
+                    "upper_edge": 24920000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 24920000,
+                    "upper_edge": 24940000
+                },            
+                {
+                    "mode": "CW",
+                    "lower_edge": 24925000,
+                    "upper_edge": 24940000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 24940000,
+                    "upper_edge": 24975000
+                },
+                {
+                    "mode": "TV",
+                    "lower_edge": 24975000,
+                    "upper_edge": 24978000
+                },      
+                {
+                    "mode": "Phone",
+                    "lower_edge": 24978000,
+                    "upper_edge": 24990000
+                },
+            ]
+        }
+    },
+    {
+        "name": "10 Metres",
+        "lower_edge": 28000000,
+        "upper_edge": 29700000,
+        "plans": {
+            "rac": [
+                {
+                    "mode": "CW",
+                    "lower_edge": 28000000,
+                    "upper_edge": 28195000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 28070000,
+                    "upper_edge": 28195000
+                },
+                {
+                    "mode": "Beacons",
+                    "lower_edge": 28195000,
+                    "upper_edge": 28300000
+                },
+                {
+                    "mode": "CW",
+                    "lower_edge": 28200500,
+                    "upper_edge": 28320000
+                },
+                {
+                    "mode": "Digital",
+                    "lower_edge": 28300000,
+                    "upper_edge": 28320000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 28320000,
+                    "upper_edge": 28680000
+                },
+                {
+                    "mode": "TV",
+                    "lower_edge": 28680000,
+                    "upper_edge": 28683000
+                },
+                {
+                    "mode": "Phone",
+                    "lower_edge": 28683000,
+                    "upper_edge": 29300000
+                },
+                {
+                    "mode": "Satellite",
+                    "lower_edge": 29300000,
+                    "upper_edge": 29520000
+                },
+                {
+                    "mode": "FM",
+                    "lower_edge": 29520000,
+                    "upper_edge": 29700000
+                }
+            ]
+        }
+    }
+]
